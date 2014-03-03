@@ -22,4 +22,5 @@ I made a two-transistor oscillator circuit that makes a siren noise (and you can
 This board was for an introductory electrical engineering lab as part of CS KickStart.
 (CS KickStart is a program here at Berkeley for incoming female freshman who are interested in CS and EE.  
 Check them out here: http://cs-kickstart.berkeley.edu/
-(This is a PDF of the first board I ever made so keep that in mind please! XD). 
+(This is the first board I ever made and I haven't yet gotten around to cleaning up the schematic, but let's just say I've learned
+a lot about good and bad practices for schematics and layouts!) 
